@@ -1,0 +1,14 @@
+[
+    {
+        "environment": "QA",
+        "url": "https://adactinhotelapp.com/"
+    },
+    {
+        "environment": "STAGE",
+        "url": "https://adactinhotelapp.com/"
+    },
+    {
+        "environment": "PROD",
+        "url": "https://adactinhotelapp.com/HotelAppBuild2/"
+    }
+]

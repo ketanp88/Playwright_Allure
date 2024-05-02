@@ -1,0 +1,34 @@
+{
+"QA":
+    {
+        "URL": "https://adactinhotelapp.com/",
+        "DB_Name": "QA_Database_Name",
+        "DB_URL": "QA_Database_URL",
+        "Username": "QA_Database_Username",
+        "Password": "QA_Database_Password",
+        "API_BaseURL": "https://gorest.co.in/public/v2",
+        "Authorization": "Bearer 123b934dd48340c191d0ee731fac0f54e122ac016798c5dba1bec7f5200ed2b1"
+    },
+
+"STAGE":
+    {
+        "URL": "https://adactinhotelapp.com/HotelAppBuild2/",
+        "DB_Name": "STAGE_Database_Name",
+        "DB_URL": "STAGE_Database_URL",
+        "DB_Username": "STAGE_Database_Username",
+        "DB_Password": "STAGE_Database_Password",
+        "API_BaseURL": "https://gorest.co.in/public/v2",
+        "API_Authorization": "Bearer 123b934dd48340c191d0ee731fac0f54e122ac016798c5dba1bec7f5200ed2b1"
+    },
+
+"PROD":
+    {
+        "URL": "https://adactinhotelapp.com/HotelAppBuild2/",
+        "DB_Name": "PROD_Database_Name",
+        "DB_URL": "PROD_Database_URL",
+        "DB_Username": "PROD_Database_Username",
+        "DB_Password": "PROD_Database_Password",
+        "API_BaseURL": "https://gorest.co.in/public/v2",
+        "API_Authorization": "Bearer 123b934dd48340c191d0ee731fac0f54e122ac016798c5dba1bec7f5200ed2b1"
+    }
+}

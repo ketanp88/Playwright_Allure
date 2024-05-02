@@ -1,0 +1,10 @@
+ExecutionLogs.log
+node_modules/
+test-results/
+playwright-report/
+TestExecutionResult/
+ExecutionResult/
+TestExecutionXML/
+Logs/
+my-allure-results/
+allure-report/

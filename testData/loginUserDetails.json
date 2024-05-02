@@ -1,0 +1,15 @@
+[
+  {
+    "accountType": "Normal QA",
+    "username": "KetanPardeshi",
+    "password": "Adactin@123",
+    "displayName": "Hello AadactinTestUser!"
+  },
+  {
+    "accountType": "Invalid Credentials",
+    "username": "InvalidUsername",
+    "password": "InvalidPassword",
+    "displayName": "Hello AadactinTestUser!"
+  }
+  
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Playwright_Allure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test-us": "npx playwright test --update-snapshot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2",
+    "exceljs": "^4.3.0",
+    "log4js": "^6.9.1",
+    "playwright": "^1.36.2",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@angular/core": "^16.1.6",
+    "allure-playwright": "^2.15.1",
+    "csv-parse": "^5.4.0",
+    "fs": "^0.0.1-security",
+    "ignore-case": "^0.1.0",
+    "nodemailer": "^6.9.4",
+    "path": "^0.12.7"
+  }
+}
