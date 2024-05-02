@@ -6,5 +6,5 @@ TestExecutionResult/
 ExecutionResult/
 TestExecutionXML/
 Logs/
-my-allure-results/
+allure-results/
 allure-report/
